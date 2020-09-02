@@ -30,5 +30,5 @@ const christian = {
 
 
 
-Github Stats
+Github Stats <br>
 ![christian's github stats](https://github-readme-stats.vercel.app/api?username=christiangranadosmonroy&show_icons=true&hide_border=true)
