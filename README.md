@@ -1,6 +1,6 @@
 ### Hi I'm christian 😀
 
-<!--
+
 ```javascript
 const christian = {
   pronouns: "he" | "him",
@@ -12,8 +12,7 @@ const christian = {
                       },
 }
 ```
--->
-<!--Section Skills
+<!--Section Skills-->
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,8 +27,8 @@ const christian = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
--->
 
 
-<!--Github Stats
-![christian's github stats](https://github-readme-stats.vercel.app/api?username=christiangranadosmonroy&show_icons=true&hide_border=true)-->
+
+Github Stats
+![christian's github stats](https://github-readme-stats.vercel.app/api?username=christiangranadosmonroy&show_icons=true&hide_border=true)
